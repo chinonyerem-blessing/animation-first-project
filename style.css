@@ -173,6 +173,8 @@
     .jn{
         display: block;
         justify-content: center;
+        margin-top: auto;
+        margin-top: 10px;
     }
     .nj{
         display: flex;
